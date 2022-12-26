@@ -22,9 +22,8 @@ export default props => {
   function getUserItem({ item: user }) {
     return (
       <ListItem
-        onPress={() => props.navigation.navigate('UserForm')}
-        bottomDivider
-        topDivider>
+        onPress={() => props.navigation.navigate('UserForm', user)}
+        bottomDivider>
         <Avatar title={user.name} source={{ uri: user.avatarUrl }} rounded />
         <ListItem.Content>
           <ListItem.Title>{user.name}</ListItem.Title>
