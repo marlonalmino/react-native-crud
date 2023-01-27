@@ -13,4 +13,12 @@ Um pequeno projeto que simula um CRUD mobile utilizando os conceitos do React Na
 `npx react-native run-android` para inicializar a aplicação no emulador
 
 ## Demonstração
-<img src="https://blog.acelerato.com/wp-content/uploads/2018/08/wip.jpg" alt="drawing" width="200"/>
+
+#### Adicionando Usuário
+<img src="https://i.imgur.com/M3baOUj.gif" alt="drawing" width="200"/>
+
+#### Atualizando Usuário
+<img src="https://i.imgur.com/iacNvYF.gif" alt="drawing" width="200"/>
+
+#### Deletando Usuário
+<img src="https://i.imgur.com/HHEW7GF.gif" alt="drawing" width="200"/>
